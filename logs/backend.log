@@ -1,0 +1,423 @@
+27.1.2025, 16:37:25 - INFO - Server is running on port: 3030
+27.1.2025, 16:37:55 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+27.1.2025, 16:57:38 - INFO - Server is running on port: 3030
+27.1.2025, 16:58:08 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+27.1.2025, 16:58:47 - INFO - Server is running on port: 3030
+27.1.2025, 16:58:55 - INFO - Server is running on port: 3030
+27.1.2025, 16:59:25 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+27.1.2025, 17:00:31 - INFO - Server is running on port: 3030
+27.1.2025, 17:00:37 - INFO - Server is running on port: 3030
+27.1.2025, 17:00:44 - INFO - Server is running on port: 3030
+27.1.2025, 17:01:14 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+27.1.2025, 17:10:11 - INFO - Server is running on port: 3030
+27.1.2025, 17:10:41 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+27.1.2025, 17:11:09 - INFO - Server is running on port: 3030
+27.1.2025, 17:11:12 - INFO - Server is running on port: 3030
+27.1.2025, 17:11:18 - INFO - Server is running on port: 3030
+27.1.2025, 17:11:36 - ERROR - Failed to Login MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+27.1.2025, 17:11:44 - ERROR - Failed to Login MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+27.1.2025, 17:11:45 - ERROR - Failed to Login MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+27.1.2025, 17:11:48 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+27.1.2025, 17:17:28 - INFO - Server is running on port: 3030
+27.1.2025, 17:17:57 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+27.1.2025, 17:20:50 - INFO - Server is running on port: 3030
+27.1.2025, 17:20:57 - INFO - Server is running on port: 3030
+27.1.2025, 17:21:27 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+27.1.2025, 17:23:58 - INFO - Server is running on port: 3030
+27.1.2025, 17:24:12 - INFO - Server is running on port: 3030
+27.1.2025, 17:24:36 - INFO - Server is running on port: 3030
+27.1.2025, 17:24:50 - ERROR - Failed to Login MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+27.1.2025, 17:25:06 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+27.1.2025, 17:26:47 - INFO - Server is running on port: 3030
+27.1.2025, 17:27:16 - INFO - Server is running on port: 3030
+27.1.2025, 17:27:35 - INFO - Server is running on port: 3030
+27.1.2025, 17:28:05 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+27.1.2025, 17:31:46 - INFO - Server is running on port: 3030
+27.1.2025, 17:32:00 - INFO - Server is running on port: 3030
+27.1.2025, 17:32:07 - INFO - Server is running on port: 3030
+27.1.2025, 17:32:37 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+27.1.2025, 17:34:04 - INFO - Server is running on port: 3030
+27.1.2025, 17:34:20 - INFO - Server is running on port: 3030
+27.1.2025, 17:34:50 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+27.1.2025, 17:36:37 - INFO - Server is running on port: 3030
+27.1.2025, 17:36:43 - INFO - Server is running on port: 3030
+27.1.2025, 17:36:51 - INFO - Server is running on port: 3030
+27.1.2025, 17:37:21 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+28.1.2025, 8:15:01 - INFO - Server is running on port: 3030
+28.1.2025, 8:15:18 - ERROR - cannot find users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:15:18 - ERROR - Failed to get users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:15:31 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+28.1.2025, 8:16:31 - INFO - Server is running on port: 3030
+28.1.2025, 8:16:43 - ERROR - cannot find users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:43 - ERROR - Failed to get users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:48 - ERROR - cannot find users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:48 - ERROR - Failed to get users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:51 - ERROR - cannot find users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:51 - ERROR - Failed to get users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:52 - ERROR - cannot find users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:52 - ERROR - Failed to get users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:53 - ERROR - cannot find users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:53 - ERROR - Failed to get users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:53 - ERROR - cannot find users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:53 - ERROR - Failed to get users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:53 - ERROR - cannot find users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:53 - ERROR - Failed to get users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:54 - ERROR - cannot find users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:16:54 - ERROR - Failed to get users | MongooseError: Operation `users.find()` buffering timed out after 10000ms
+28.1.2025, 8:17:01 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+28.1.2025, 8:19:21 - INFO - Server is running on port: 3030
+28.1.2025, 8:19:45 - INFO - Server is running on port: 3030
+28.1.2025, 8:22:24 - INFO - Server is running on port: 3030
+28.1.2025, 8:23:35 - ERROR - cannot find users | TypeError: dbService.getCollection is not a function
+28.1.2025, 8:23:35 - ERROR - Failed to get users | TypeError: dbService.getCollection is not a function
+28.1.2025, 8:26:00 - INFO - Server is running on port: 3030
+28.1.2025, 8:26:30 - ERROR - Error connecting to MongoDB: | MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+28.1.2025, 9:03:52 - INFO - Server is running on port: 3030 
+28.1.2025, 9:03:52 - INFO - Server is running in development mode 
+28.1.2025, 9:04:04 - DEBUG - auth.service - login with username: host 
+28.1.2025, 9:04:04 - ERROR - Failed to Login Invalid username or password 
+28.1.2025, 9:05:21 - INFO - Server is running on port: 3030 
+28.1.2025, 9:05:21 - INFO - Server is running in development mode 
+28.1.2025, 9:06:09 - INFO - Server is running on port: 3030 
+28.1.2025, 9:06:09 - INFO - Server is running in development mode 
+28.1.2025, 9:06:29 - INFO - Server is running on port: 3030 
+28.1.2025, 9:06:29 - INFO - Server is running in development mode 
+28.1.2025, 9:09:02 - INFO - Server is running on port: 3030 
+28.1.2025, 9:09:02 - INFO - Server is running in development mode 
+28.1.2025, 9:09:49 - INFO - Server is running on port: 3030 
+28.1.2025, 9:09:49 - INFO - Server is running in development mode 
+28.1.2025, 9:14:32 - INFO - Server is running on port: 3030 
+28.1.2025, 9:14:32 - INFO - Server is running in development mode 
+28.1.2025, 9:14:46 - INFO - Server is running on port: 3030 
+28.1.2025, 9:14:46 - INFO - Server is running in development mode 
+28.1.2025, 9:15:23 - INFO - Server is running on port: 3030 
+28.1.2025, 9:15:23 - INFO - Server is running in development mode 
+28.1.2025, 9:15:28 - DEBUG - auth.service - login with username: guest 
+28.1.2025, 9:15:28 - ERROR - Failed to Login Error: Invalid username or password 
+28.1.2025, 9:15:44 - INFO - Server is running on port: 3030 
+28.1.2025, 9:15:44 - INFO - Server is running in development mode 
+28.1.2025, 9:15:53 - INFO - Server is running on port: 3030 
+28.1.2025, 9:15:53 - INFO - Server is running in development mode 
+28.1.2025, 9:16:10 - INFO - Server is running on port: 3030 
+28.1.2025, 9:16:10 - INFO - Server is running in development mode 
+28.1.2025, 9:17:35 - INFO - Server is running on port: 3030 
+28.1.2025, 9:17:35 - INFO - Server is running in development mode 
+28.1.2025, 9:17:38 - INFO - Server is running on port: 3030 
+28.1.2025, 9:17:38 - INFO - Server is running in development mode 
+28.1.2025, 9:17:42 - DEBUG - auth.service - login with username: guest 
+28.1.2025, 9:17:42 - ERROR - Failed to Login Error: Invalid username or password 
+28.1.2025, 9:19:34 - INFO - Connected to MongoDB successfully 
+28.1.2025, 9:19:34 - INFO - Server is running on port: 3030 
+28.1.2025, 9:19:34 - INFO - Server is running in development mode 
+28.1.2025, 9:19:42 - DEBUG - auth.service - login with username: host 
+28.1.2025, 9:19:42 - ERROR - Failed to Login Error: Invalid username or password 
+28.1.2025, 9:20:06 - INFO - Connected to MongoDB successfully 
+28.1.2025, 9:20:06 - INFO - Server is running on port: 3030 
+28.1.2025, 9:20:06 - INFO - Server is running in development mode 
+28.1.2025, 9:21:04 - INFO - Connected to MongoDB successfully 
+28.1.2025, 9:21:04 - INFO - Server is running on port: 3030 
+28.1.2025, 9:21:04 - INFO - Server is running in development mode 
+28.1.2025, 9:21:25 - INFO - Connected to MongoDB successfully 
+28.1.2025, 9:21:25 - INFO - Server is running on port: 3030 
+28.1.2025, 9:21:25 - INFO - Server is running in development mode 
+28.1.2025, 9:21:30 - DEBUG - auth.service - login with username: guest 
+28.1.2025, 9:21:30 - ERROR - auth.service - user guest not found 
+28.1.2025, 9:21:30 - ERROR - auth.service - login failed for user guest | Error: Invalid username or password 
+28.1.2025, 9:21:30 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:21:32 - DEBUG - auth.service - signup with username: guest, fullname: ccccccc 
+28.1.2025, 9:21:32 - DEBUG - auth.route - new account created: {"user":{"username":"guest","password":"guest123","fullname":"ccccccc","_id":"6798a19c8007f6e981fce038"},"loginToken":"35a355428122cfb37e01be5a017bd5b1203875b327b9ff2ee09a8a4eac88ecc252b2363c92f5dfdf5632284afec67a56bb61f58a5173a88400e8380a17969f3163b88b857f4bacd44e53fbd9d97017dd8143df745d2249194ddd1ec0e6f98bce4952b047838b13a9dd7120f0808b25a2f57628f6a1ab0bd0fde7e425d4bc4986d5f460f2164812ddca33ff682f2e4264df5c08d655ca6a664350119135e11dac13afe48df821fdf234dd"} 
+28.1.2025, 9:21:32 - DEBUG - auth.service - login with username: guest 
+28.1.2025, 9:21:32 - ERROR - auth.service - user guest not found 
+28.1.2025, 9:21:32 - ERROR - auth.service - login failed for user guest | Error: Invalid username or password 
+28.1.2025, 9:21:32 - ERROR - Failed to signup Error: Invalid username or password 
+28.1.2025, 9:22:12 - DEBUG - auth.service - login with username: guest 
+28.1.2025, 9:22:12 - ERROR - auth.service - user guest not found 
+28.1.2025, 9:22:12 - ERROR - auth.service - login failed for user guest | Error: Invalid username or password 
+28.1.2025, 9:22:12 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:25:39 - INFO - Connected to MongoDB successfully 
+28.1.2025, 9:25:39 - INFO - Server is running on port: 3030 
+28.1.2025, 9:25:39 - INFO - Server is running in development mode 
+28.1.2025, 9:25:46 - INFO - Connected to MongoDB successfully 
+28.1.2025, 9:25:46 - INFO - Server is running on port: 3030 
+28.1.2025, 9:25:46 - INFO - Server is running in development mode 
+28.1.2025, 9:25:54 - INFO - Connected to MongoDB successfully 
+28.1.2025, 9:25:54 - INFO - Server is running on port: 3030 
+28.1.2025, 9:25:54 - INFO - Server is running in development mode 
+28.1.2025, 9:26:24 - DEBUG - auth.service - login with username: host 
+28.1.2025, 9:26:24 - ERROR - auth.service - user host not found 
+28.1.2025, 9:26:24 - ERROR - auth.service - login failed for user host | Error: Invalid username or password 
+28.1.2025, 9:26:24 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:29:27 - DEBUG - auth.service - login with username: host 
+28.1.2025, 9:29:27 - ERROR - auth.service - user host not found 
+28.1.2025, 9:29:27 - ERROR - auth.service - login failed for user host | Error: Invalid username or password 
+28.1.2025, 9:29:27 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:34:13 - DEBUG - auth.service - login with username: guest 
+28.1.2025, 9:34:13 - ERROR - auth.service - user guest not found 
+28.1.2025, 9:34:13 - ERROR - auth.service - login failed for user guest | Error: Invalid username or password 
+28.1.2025, 9:34:13 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:36:24 - DEBUG - auth.service - login with username: host 
+28.1.2025, 9:36:24 - ERROR - auth.service - user host not found 
+28.1.2025, 9:36:24 - ERROR - auth.service - login failed for user host | Error: Invalid username or password 
+28.1.2025, 9:36:24 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:36:25 - DEBUG - auth.service - login with username: host 
+28.1.2025, 9:36:25 - ERROR - auth.service - user host not found 
+28.1.2025, 9:36:25 - ERROR - auth.service - login failed for user host | Error: Invalid username or password 
+28.1.2025, 9:36:25 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:36:31 - DEBUG - auth.service - login with username: host 
+28.1.2025, 9:36:31 - ERROR - auth.service - user host not found 
+28.1.2025, 9:36:31 - ERROR - auth.service - login failed for user host | Error: Invalid username or password 
+28.1.2025, 9:36:31 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:38:20 - DEBUG - auth.service - signup with username: ddddddddd, fullname: dddd 
+28.1.2025, 9:38:20 - DEBUG - auth.route - new account created: {"user":{"username":"ddddddddd","password":"ddd","fullname":"dddd","_id":"6798a58c25641ea9aff64213"},"loginToken":"12bc0277e1c70c8a4fc53ae9ab28de44ca902ea2119452ec521f23f5dd0c0a8d3f636245e3e138acde9012b561a99ce9bf59d6d559e15b6bfcd1dc114dd5b5daac1efbf6ad96cde0ddb3471eacd0eda4006c2d892e6528c72eb82593066c9639ff02b59777dfa717c0beedc8008324b7b631846d709212263478e589aa62e88b168eff58d47e6f4414e49d5925c2f092f529148031fb4841af9d3f8ce567932b7818bf45d0f9c173daf53d"} 
+28.1.2025, 9:38:20 - DEBUG - auth.service - login with username: ddddddddd 
+28.1.2025, 9:38:20 - ERROR - auth.service - user ddddddddd not found 
+28.1.2025, 9:38:20 - ERROR - auth.service - login failed for user ddddddddd | Error: Invalid username or password 
+28.1.2025, 9:38:20 - ERROR - Failed to signup Error: Invalid username or password 
+28.1.2025, 9:38:23 - DEBUG - auth.service - login with username: host 
+28.1.2025, 9:38:23 - ERROR - auth.service - user host not found 
+28.1.2025, 9:38:23 - ERROR - auth.service - login failed for user host | Error: Invalid username or password 
+28.1.2025, 9:38:23 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:38:27 - DEBUG - auth.service - login with username: host 
+28.1.2025, 9:38:27 - ERROR - auth.service - user host not found 
+28.1.2025, 9:38:27 - ERROR - auth.service - login failed for user host | Error: Invalid username or password 
+28.1.2025, 9:38:27 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:38:29 - DEBUG - auth.service - login with username: host 
+28.1.2025, 9:38:29 - ERROR - auth.service - user host not found 
+28.1.2025, 9:38:29 - ERROR - auth.service - login failed for user host | Error: Invalid username or password 
+28.1.2025, 9:38:29 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:42:02 - DEBUG - auth.service - login with username: guest 
+28.1.2025, 9:42:02 - ERROR - auth.service - user guest not found 
+28.1.2025, 9:42:02 - ERROR - auth.service - login failed for user guest | Error: Invalid username or password 
+28.1.2025, 9:42:02 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:42:08 - DEBUG - auth.service - signup with username: 44444, fullname: 444444444 
+28.1.2025, 9:42:08 - DEBUG - auth.route - new account created: {"user":{"username":"44444","password":"4444","fullname":"444444444","_id":"6798a67025641ea9aff64214"},"loginToken":"8289eec9d3919fb8216e3a810a88ffc779897273fd30a21f7537e2529dcb11dd122910869e795f0909908bf18a0169c7f63956e6e2a48e2b4d90226efc3e9d2bd0b457c877addb97db0d8705bfea7ecd7fd940e64e2e87782fbab2d1a2b0c186bdf36bbf36efb6e7d7b2725fd6482225b48491b6e72fe29902888a6f602e82f0407111ebc92014f4d8a9d76f9b2960b0a227ba2886099e2d5c1c9964ae941fa55b3e768c868ea8bcad1db595"} 
+28.1.2025, 9:42:08 - DEBUG - auth.service - login with username: 44444 
+28.1.2025, 9:42:08 - ERROR - auth.service - user 44444 not found 
+28.1.2025, 9:42:08 - ERROR - auth.service - login failed for user 44444 | Error: Invalid username or password 
+28.1.2025, 9:42:08 - ERROR - Failed to signup Error: Invalid username or password 
+28.1.2025, 9:43:27 - DEBUG - auth.service - login with username: guest 
+28.1.2025, 9:43:27 - ERROR - auth.service - user guest not found 
+28.1.2025, 9:43:27 - ERROR - auth.service - login failed for user guest | Error: Invalid username or password 
+28.1.2025, 9:43:27 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:43:33 - DEBUG - auth.service - signup with username: ffffffff, fullname: ffffff 
+28.1.2025, 9:43:33 - DEBUG - auth.route - new account created: {"user":{"username":"ffffffff","password":"ffffff","fullname":"ffffff","_id":"6798a6c525641ea9aff64215"},"loginToken":"d7b6847f1b50b56a9fe17ce4a94dcd4af5929855f98d49ee68d1ee5941101fd0027338d9951adb175ac57ec402198673602446b5b97c3e094f3836a07451a1f4d4f7a9d6f3369630e1b6e35db00c65bdfdbefa8e1442591904db06b6a7438bff76b73f4ccaae512f3443bf1414fd030452764235aaa442a290cd0a10ca43efbca4b9750917a5ce10610cc4b96e8deba23236ff01cd550ff5abfcec6b1d602f8140ffc23e3a2f3ec7e3b31523"} 
+28.1.2025, 9:43:33 - DEBUG - auth.service - login with username: ffffffff 
+28.1.2025, 9:43:33 - ERROR - auth.service - user ffffffff not found 
+28.1.2025, 9:43:33 - ERROR - auth.service - login failed for user ffffffff | Error: Invalid username or password 
+28.1.2025, 9:43:33 - ERROR - Failed to signup Error: Invalid username or password 
+28.1.2025, 9:50:04 - DEBUG - auth.service - login with username: host 
+28.1.2025, 9:50:04 - ERROR - auth.service - user host not found 
+28.1.2025, 9:50:04 - ERROR - auth.service - login failed for user host | Error: Invalid username or password 
+28.1.2025, 9:50:04 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:50:11 - DEBUG - auth.service - signup with username: ffff, fullname: ffffffff 
+28.1.2025, 9:50:11 - DEBUG - auth.route - new account created: {"user":{"username":"ffff","password":"fffff","fullname":"ffffffff","_id":"6798a85325641ea9aff64216"},"loginToken":"35a1cb149ec2b463f12fba8e71fb3fef363a0e151a3a09e9cbfd97f7c24ee48bf7cf54ab7c029d66ae04f4fa982dcc0e4b95a8d7b4d6b8d9573d14ca123ee5aa80c70bbf3eafbbddda8ce8759c3b379fb8705051e94a46e282e9a3507da4cd57afefb7f9eafe42924571db20a0207b5822d73cc4d7472995030f8396304feaaff2b84bb28e908e63b9d92961814b641f5082e0390cee019c91e39f7d58b688e5da3afeaf81d93a8bd8d8"} 
+28.1.2025, 9:50:11 - DEBUG - auth.service - login with username: ffff 
+28.1.2025, 9:50:11 - ERROR - auth.service - user ffff not found 
+28.1.2025, 9:50:11 - ERROR - auth.service - login failed for user ffff | Error: Invalid username or password 
+28.1.2025, 9:50:11 - ERROR - Failed to signup Error: Invalid username or password 
+28.1.2025, 9:50:17 - DEBUG - auth.service - login with username: host 
+28.1.2025, 9:50:17 - ERROR - auth.service - user host not found 
+28.1.2025, 9:50:17 - ERROR - auth.service - login failed for user host | Error: Invalid username or password 
+28.1.2025, 9:50:17 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:50:23 - DEBUG - auth.service - signup with username: eeeeeeee, fullname: eeeeeeeeeeeeee 
+28.1.2025, 9:50:23 - DEBUG - auth.route - new account created: {"user":{"username":"eeeeeeee","password":"eeee","fullname":"eeeeeeeeeeeeee","_id":"6798a85f25641ea9aff64217"},"loginToken":"f34fb7cc6add64d563d86714d9397b0c5c1e9eabe6b74a1695fad7b5e845dde96da60f37ab8c25d879c57a091ffa16e3ba5e42bc49c30149c6cbd0cb101295d18590abaa932f8eaa20f952fbd06588e7bff8b4268c00dc893f1d5d710bf9802d02bd4e74886d4e017bea8f22e440c3eb3d3a05f5cf703e369be91984e712346321896509d6bee184fec61afeaf7c0b78ef929289c28aee0f99b5260e16a5963843e2e2f5d833b41a9f92f3bc21ed74890f424168"} 
+28.1.2025, 9:50:23 - DEBUG - auth.service - login with username: eeeeeeee 
+28.1.2025, 9:50:23 - ERROR - auth.service - user eeeeeeee not found 
+28.1.2025, 9:50:23 - ERROR - auth.service - login failed for user eeeeeeee | Error: Invalid username or password 
+28.1.2025, 9:50:23 - ERROR - Failed to signup Error: Invalid username or password 
+28.1.2025, 9:51:43 - INFO - Connected to MongoDB successfully 
+28.1.2025, 9:51:43 - INFO - Server is running on port: 3030 
+28.1.2025, 9:51:43 - INFO - Server is running in development mode 
+28.1.2025, 9:53:58 - INFO - Connected to MongoDB 
+28.1.2025, 9:53:58 - INFO - Server is running on port: 3030 
+28.1.2025, 9:53:58 - INFO - Server is running in development mode 
+28.1.2025, 9:56:23 - INFO - Connected to MongoDB successfully 
+28.1.2025, 9:56:23 - INFO - Server is running on port: 3030 
+28.1.2025, 9:56:23 - INFO - Server is running in development mode 
+28.1.2025, 9:56:29 - DEBUG - auth.service - login with username: admin 
+28.1.2025, 9:56:29 - ERROR - auth.service - user admin not found 
+28.1.2025, 9:56:29 - ERROR - auth.service - login failed for user admin | Error: Invalid username or password 
+28.1.2025, 9:56:29 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 9:56:43 - DEBUG - auth.service - signup with username: fffffff, fullname: fffff 
+28.1.2025, 9:56:43 - DEBUG - auth.route - new account created: {"user":{"username":"fffffff","password":"fff","fullname":"fffff","_id":"6798a9dbc6bece5425a9646a"},"loginToken":"5ea1b07bb2e9f1a27b624d33021d6a787092abfc8cf9b9f964c3b8c6be0531ca2063f52aa4776accb959230876aafcdb01cfa5d5401cf5f21918cb16c7f090134171e9a7cef984d7db621f95b7811e72f4f2790825fe85cbc9203c4983f0998366622515262a8b41e1af8e2c705223fee11c766b309d0f4749bd30661d4f2d7459082b4b9f57c1005c620bd14f023620e71b9628e30f9bb3700e837adc50131421209e5629c96077e2d4"} 
+28.1.2025, 9:56:43 - DEBUG - auth.service - login with username: fffffff 
+28.1.2025, 9:56:43 - ERROR - auth.service - user fffffff not found 
+28.1.2025, 9:56:43 - ERROR - auth.service - login failed for user fffffff | Error: Invalid username or password 
+28.1.2025, 9:56:43 - ERROR - Failed to signup Error: Invalid username or password 
+28.1.2025, 10:00:17 - INFO - Connected to MongoDB successfully 
+28.1.2025, 10:00:17 - INFO - Server is running on port: 3030 
+28.1.2025, 10:00:17 - INFO - Server is running in development mode 
+28.1.2025, 10:00:20 - INFO - Connected to MongoDB successfully 
+28.1.2025, 10:00:20 - INFO - Server is running on port: 3030 
+28.1.2025, 10:00:20 - INFO - Server is running in development mode 
+28.1.2025, 10:02:09 - INFO - Connected to MongoDB successfully 
+28.1.2025, 10:02:09 - INFO - Server is running on port: 3030 
+28.1.2025, 10:02:09 - INFO - Server is running in development mode 
+28.1.2025, 10:02:37 - INFO - Connected to MongoDB successfully 
+28.1.2025, 10:02:37 - INFO - Server is running on port: 3030 
+28.1.2025, 10:02:37 - INFO - Server is running in development mode 
+28.1.2025, 10:03:17 - INFO - Connected to MongoDB successfully 
+28.1.2025, 10:03:17 - INFO - Server is running on port: 3030 
+28.1.2025, 10:03:17 - INFO - Server is running in development mode 
+28.1.2025, 10:03:45 - INFO - Connected to MongoDB successfully 
+28.1.2025, 10:03:45 - INFO - Server is running on port: 3030 
+28.1.2025, 10:03:45 - INFO - Server is running in development mode 
+28.1.2025, 10:05:11 - INFO - Connected to MongoDB successfully 
+28.1.2025, 10:05:11 - INFO - Server is running on port: 3030 
+28.1.2025, 10:05:11 - INFO - Server is running in development mode 
+28.1.2025, 10:05:13 - ERROR - Failed to get users | TypeError: userService.query is not a function 
+28.1.2025, 10:05:28 - DEBUG - auth.service - login with username: guest 
+28.1.2025, 10:05:28 - ERROR - auth.service - invalid password for user guest 
+28.1.2025, 10:05:28 - ERROR - auth.service - login failed for user guest | Error: Invalid username or password 
+28.1.2025, 10:05:28 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 11:42:49 - ERROR - Failed to get users | TypeError: userService.query is not a function 
+28.1.2025, 11:43:12 - DEBUG - auth.service - login with username: admin 
+28.1.2025, 11:43:12 - ERROR - auth.service - user admin not found 
+28.1.2025, 11:43:12 - ERROR - auth.service - login failed for user admin | Error: Invalid username or password 
+28.1.2025, 11:43:12 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 11:44:40 - ERROR - Failed to get users | TypeError: userService.query is not a function 
+28.1.2025, 11:44:53 - DEBUG - auth.service - login with username: host 
+28.1.2025, 11:44:53 - ERROR - auth.service - user host not found 
+28.1.2025, 11:44:53 - ERROR - auth.service - login failed for user host | Error: Invalid username or password 
+28.1.2025, 11:44:53 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 11:46:58 - INFO - Connected to MongoDB successfully 
+28.1.2025, 11:46:58 - INFO - Server is running on port: 3030 
+28.1.2025, 11:46:58 - INFO - Server is running in development mode 
+28.1.2025, 11:47:21 - INFO - Connected to MongoDB successfully 
+28.1.2025, 11:47:21 - INFO - Server is running on port: 3030 
+28.1.2025, 11:47:21 - INFO - Server is running in development mode 
+28.1.2025, 11:48:00 - INFO - Connected to MongoDB successfully 
+28.1.2025, 11:48:00 - INFO - Server is running on port: 3030 
+28.1.2025, 11:48:00 - INFO - Server is running in development mode 
+28.1.2025, 11:48:09 - DEBUG - auth.service - login with username: guest 
+28.1.2025, 11:48:09 - ERROR - auth.service - user guest not found 
+28.1.2025, 11:48:09 - ERROR - auth.service - login failed for user guest | Error: Invalid username or password 
+28.1.2025, 11:48:09 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 11:50:31 - INFO - Connected to MongoDB successfully 
+28.1.2025, 11:50:31 - INFO - Server is running on port: 3030 
+28.1.2025, 11:50:31 - INFO - Server is running in development mode 
+28.1.2025, 11:50:38 - DEBUG - auth.service - login with username: host 
+28.1.2025, 11:50:38 - ERROR - Failed to Login: | Invalid username or password 
+28.1.2025, 11:51:14 - DEBUG - auth.service - signup with username: undefined, fullname: undefined 
+28.1.2025, 11:51:14 - ERROR - Failed to signup: | Missing required signup information 
+28.1.2025, 11:53:16 - INFO - Connected to MongoDB successfully 
+28.1.2025, 11:53:16 - INFO - Server is running on port: 3030 
+28.1.2025, 11:53:16 - INFO - Server is running in development mode 
+28.1.2025, 11:53:30 - INFO - Connected to MongoDB successfully 
+28.1.2025, 11:53:30 - INFO - Server is running on port: 3030 
+28.1.2025, 11:53:30 - INFO - Server is running in development mode 
+28.1.2025, 11:53:50 - DEBUG - Login attempt: | {"username":"guest"} 
+28.1.2025, 11:54:14 - INFO - Connected to MongoDB successfully 
+28.1.2025, 11:54:14 - INFO - Server is running on port: 3030 
+28.1.2025, 11:54:14 - INFO - Server is running in development mode 
+28.1.2025, 11:54:37 - DEBUG - Login attempt: | {"username":"guest"} 
+28.1.2025, 11:54:41 - DEBUG - auth.service - signup with username: undefined, fullname: undefined 
+28.1.2025, 11:54:41 - ERROR - Failed to signup: | Missing required signup information 
+28.1.2025, 11:55:49 - INFO - Connected to MongoDB successfully 
+28.1.2025, 11:55:49 - INFO - Server is running on port: 3030 
+28.1.2025, 11:55:49 - INFO - Server is running in development mode 
+28.1.2025, 11:56:31 - DEBUG - Login attempt: | {"username":"guest"} 
+28.1.2025, 11:56:41 - DEBUG - auth.service - signup attempt with username: undefined, fullname: undefined 
+28.1.2025, 11:56:41 - ERROR - auth.service - signup failed: | Error: Missing required signup information 
+28.1.2025, 11:56:41 - ERROR - Failed to signup: | Error: Missing required signup information 
+28.1.2025, 12:02:05 - INFO - Connected to MongoDB successfully 
+28.1.2025, 12:02:05 - INFO - Server is running on port: 3030 
+28.1.2025, 12:02:05 - INFO - Server is running in development mode 
+28.1.2025, 12:03:08 - INFO - Connected to MongoDB successfully 
+28.1.2025, 12:03:08 - INFO - Server is running on port: 3030 
+28.1.2025, 12:03:08 - INFO - Server is running in development mode 
+28.1.2025, 12:04:55 - INFO - Connected to MongoDB successfully 
+28.1.2025, 12:04:55 - INFO - Server is running on port: 3030 
+28.1.2025, 12:04:55 - INFO - Server is running in development mode 
+28.1.2025, 12:05:29 - DEBUG - Login attempt: | {"username":"host"} 
+28.1.2025, 12:05:29 - DEBUG - auth.service - login attempt with username: host 
+28.1.2025, 12:05:29 - ERROR - auth.service - invalid password for user host 
+28.1.2025, 12:05:29 - ERROR - auth.service - login failed for user host: | Error: Invalid username or password 
+28.1.2025, 12:05:29 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:05:33 - DEBUG - auth.service - signup attempt with username: undefined, fullname: undefined 
+28.1.2025, 12:05:33 - ERROR - auth.service - missing required signup information 
+28.1.2025, 12:05:33 - ERROR - auth.service - signup failed: | Error: Missing required signup information 
+28.1.2025, 12:05:33 - ERROR - Failed to signup: | Error: Missing required signup information 
+28.1.2025, 12:05:56 - DEBUG - Login attempt: | {"username":"guest"} 
+28.1.2025, 12:05:56 - DEBUG - auth.service - login attempt with username: guest 
+28.1.2025, 12:05:56 - ERROR - auth.service - invalid password for user guest 
+28.1.2025, 12:05:56 - ERROR - auth.service - login failed for user guest: | Error: Invalid username or password 
+28.1.2025, 12:05:56 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:05:57 - DEBUG - Login attempt: | {"username":"host"} 
+28.1.2025, 12:05:57 - DEBUG - auth.service - login attempt with username: host 
+28.1.2025, 12:05:57 - ERROR - auth.service - invalid password for user host 
+28.1.2025, 12:05:57 - ERROR - auth.service - login failed for user host: | Error: Invalid username or password 
+28.1.2025, 12:05:57 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:05:58 - DEBUG - Login attempt: | {"username":"host"} 
+28.1.2025, 12:05:58 - DEBUG - auth.service - login attempt with username: host 
+28.1.2025, 12:05:58 - ERROR - auth.service - invalid password for user host 
+28.1.2025, 12:05:58 - ERROR - auth.service - login failed for user host: | Error: Invalid username or password 
+28.1.2025, 12:05:58 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:06:01 - DEBUG - Login attempt: | {"username":"guest"} 
+28.1.2025, 12:06:01 - DEBUG - auth.service - login attempt with username: guest 
+28.1.2025, 12:06:01 - ERROR - auth.service - invalid password for user guest 
+28.1.2025, 12:06:01 - ERROR - auth.service - login failed for user guest: | Error: Invalid username or password 
+28.1.2025, 12:06:01 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:06:02 - DEBUG - Login attempt: | {"username":"guest"} 
+28.1.2025, 12:06:02 - DEBUG - auth.service - login attempt with username: guest 
+28.1.2025, 12:06:02 - ERROR - auth.service - invalid password for user guest 
+28.1.2025, 12:06:02 - ERROR - auth.service - login failed for user guest: | Error: Invalid username or password 
+28.1.2025, 12:06:02 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:06:02 - DEBUG - Login attempt: | {"username":"guest"} 
+28.1.2025, 12:06:02 - DEBUG - auth.service - login attempt with username: guest 
+28.1.2025, 12:06:02 - ERROR - auth.service - invalid password for user guest 
+28.1.2025, 12:06:02 - ERROR - auth.service - login failed for user guest: | Error: Invalid username or password 
+28.1.2025, 12:06:02 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:06:03 - DEBUG - Login attempt: | {"username":"guest"} 
+28.1.2025, 12:06:03 - DEBUG - auth.service - login attempt with username: guest 
+28.1.2025, 12:06:03 - ERROR - auth.service - invalid password for user guest 
+28.1.2025, 12:06:03 - ERROR - auth.service - login failed for user guest: | Error: Invalid username or password 
+28.1.2025, 12:06:03 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:06:03 - DEBUG - Login attempt: | {"username":"guest"} 
+28.1.2025, 12:06:03 - DEBUG - auth.service - login attempt with username: guest 
+28.1.2025, 12:06:03 - ERROR - auth.service - invalid password for user guest 
+28.1.2025, 12:06:03 - ERROR - auth.service - login failed for user guest: | Error: Invalid username or password 
+28.1.2025, 12:06:03 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:06:03 - DEBUG - Login attempt: | {"username":"host"} 
+28.1.2025, 12:06:03 - DEBUG - auth.service - login attempt with username: host 
+28.1.2025, 12:06:03 - ERROR - auth.service - invalid password for user host 
+28.1.2025, 12:06:03 - ERROR - auth.service - login failed for user host: | Error: Invalid username or password 
+28.1.2025, 12:06:03 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:06:04 - DEBUG - Login attempt: | {"username":"host"} 
+28.1.2025, 12:06:04 - DEBUG - auth.service - login attempt with username: host 
+28.1.2025, 12:06:04 - ERROR - auth.service - invalid password for user host 
+28.1.2025, 12:06:04 - ERROR - auth.service - login failed for user host: | Error: Invalid username or password 
+28.1.2025, 12:06:04 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:06:04 - DEBUG - Login attempt: | {"username":"guest"} 
+28.1.2025, 12:06:04 - DEBUG - auth.service - login attempt with username: guest 
+28.1.2025, 12:06:04 - ERROR - auth.service - invalid password for user guest 
+28.1.2025, 12:06:04 - ERROR - auth.service - login failed for user guest: | Error: Invalid username or password 
+28.1.2025, 12:06:04 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:06:04 - DEBUG - Login attempt: | {"username":"guest"} 
+28.1.2025, 12:06:04 - DEBUG - auth.service - login attempt with username: guest 
+28.1.2025, 12:06:04 - ERROR - auth.service - invalid password for user guest 
+28.1.2025, 12:06:04 - ERROR - auth.service - login failed for user guest: | Error: Invalid username or password 
+28.1.2025, 12:06:04 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:06:04 - DEBUG - Login attempt: | {"username":"guest"} 
+28.1.2025, 12:06:04 - DEBUG - auth.service - login attempt with username: guest 
+28.1.2025, 12:06:04 - ERROR - auth.service - invalid password for user guest 
+28.1.2025, 12:06:04 - ERROR - auth.service - login failed for user guest: | Error: Invalid username or password 
+28.1.2025, 12:06:04 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:06:06 - DEBUG - Login attempt: | {"username":"guest"} 
+28.1.2025, 12:06:06 - DEBUG - auth.service - login attempt with username: guest 
+28.1.2025, 12:06:06 - ERROR - auth.service - invalid password for user guest 
+28.1.2025, 12:06:06 - ERROR - auth.service - login failed for user guest: | Error: Invalid username or password 
+28.1.2025, 12:06:06 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:06:07 - DEBUG - Login attempt: | {"username":"host"} 
+28.1.2025, 12:06:07 - DEBUG - auth.service - login attempt with username: host 
+28.1.2025, 12:06:07 - ERROR - auth.service - invalid password for user host 
+28.1.2025, 12:06:07 - ERROR - auth.service - login failed for user host: | Error: Invalid username or password 
+28.1.2025, 12:06:07 - ERROR - Failed to Login: | Error: Invalid username or password 
+28.1.2025, 12:10:18 - INFO - Server is running on port: 3030 
+28.1.2025, 12:10:18 - INFO - Server is running in undefined mode 
+28.1.2025, 12:14:21 - INFO - Server is running on port: 3030 
+28.1.2025, 12:14:21 - INFO - Server is running in undefined mode 
+28.1.2025, 12:15:32 - INFO - Server is running on port: 3030 
+28.1.2025, 12:15:32 - INFO - Server is running in undefined mode 
+28.1.2025, 12:17:21 - INFO - Server is running on port: 3030 
+28.1.2025, 12:17:21 - INFO - Server is running in undefined mode 
